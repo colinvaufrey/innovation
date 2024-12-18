@@ -10,11 +10,13 @@ En guise d’introduction, et pour aider à retenir nos prénoms, Philippe nous 
 
 Nous auront à réaliser un projet concret en groupe, en utilisant la méthode du _design thinking_. Ce projet portera sur les **_fablabs_** : des tiers-lieux où l'on peut fabriquer des objets, souvent organisés en association ou dans le cadre scolaire.
 
-<center>
+<p align="center">
 <img src="./images/planning.jpg" height="600px" alt="Immersion">
+</p>
 
-_Le planning du cours_
-</center>
+<p align="center" style="font-style: italic;">
+Le planning du cours
+</p>
 
 J’avais déjà entendu parler de _repair cafés_ mais jamais de _fablabs_. Après en avoir entendu parler un peu plus par Philippe, je me suis rendu compte que les deux étaient très similaires, mais j’ai toujours du mal à cerner la différence entre les deux. Peut-être le _repair café_ est-il plus orienté vers la réparation d’objets, tandis que le _fablab_ est plus orienté vers la création d’objets inédits ?
 
@@ -69,48 +71,61 @@ Cette journée était très spéciale : nous étions tous conviés à une visite
 
 Nous avons été installés dans une salle de réunion, où nous avons été invités par Philippe à jouer à un petit jeu de carte en équipe : nous devions, chacun notre tour, confier aux autres membres de l’équipe le soin de choisir pour nous un animal totem (différent de celui que nous avions choisi au premier cours !) Celui-ci a pour objectif de représenter notre personnalité. J’ai ainsi été choisi pour être une **baleine minutieuse**.
 
-<center>
+<p align="center">
 <img src="images/animal_totem.jpg" height="200px" alt="Baleine minutieuse">
+</p>
 
-_La baleine minutieuse_
-</center>
+<p align="center" style="font-style: italic;">
+La baleine minutieuse
+</p>
 
 Nous avons également réalisé un exercice de communication qui m’a rappelé une épreuve de Fort Boyard : nous devions, par trois, reconstruire une pyramide de gobelets en plastique, en utilisant uniquement une corde chacun toutes reliées à un élastique : celui-ci devait être tendu pour soulever les gobelets. En plus de cela, une contrainte supplémentaire s’est ajoutée : nous devions réaliser l’exercice avec une personne aveuglée et une personne muette. J’ai été l’aveuglé, et n’ai pas brié par mes compétences de représentation spatiale… (Si je puis me permettre, les instructions de mon camarade n’ont pas été très claires non plus !)
 
-<center>
-<video src="videos/epreuve.mp4" controls height="400px">
-</center>
+<p align="center">
+<video src="images/epreuve.gif" height="400px">
+</p>
 
-<center>
-
-_(Quel désastre… Désolé Nada !)_
-</center>
+<p align="center" style="font-style: italic;">
+(Quel désastre… Désolé Nada !)
+</p>
 
 Nous avons également réalisé une visite du musée. Je me demandais alors quel rapport la visite pouvait bien avoir avec notre sujet de _fablabs_. J’ai alors compris que le but était de nous montrer des exemples de méthodes de transmission de savoirs, en prenant pour exemple les artisans et leurs apprentis. À l’époque, la transmission était principalement orale et par mimétisme : il ne reste pas ou peu d’écrit décrivants les méthodes de l’industrie qui y était pratiquée.
 
 Pour terminer la visite, nous avons pu admirer une magnifique maquette du **_Saut du Tarn_**, qui nous a été présentée par la guide. En plus de s'illuminer, il est possible de faire couler l’eau de la rivière, ce qui rend le spectacle encore plus impressionnant.
 
-<center>
+<p align="center">
 <img src="images/musee_maquette_1.jpg" height="400px" alt="Maquette du Saut du Tarn">
+</p>
 
-_La maquette du Saut du Tarn_
+<p align="center" style="font-style: italic;">
+La maquette du Saut du Tarn
+</p>
 
+<p align="center">
 <img src="images/musee_maquette_2.jpg" height="300px" alt="Maquette du Saut du Tarn">
+</p>
 
-_Une autre vue de la maquette_
-</center>
+<p align="center" style="font-style: italic;">
+Une autre vue de la maquette
+</p>
 
 À la suite de la visite, nous sommes retournés travailler dans la salle de réunion, où nous avons réalisé un **_brainstorming_** sur les trois éléments du modèle _Value Proposition Design_ : les **_jobs_**, les **_pains_**, et les **_gains_**. Nous avons ainsi pu déterminer les besoins de nos cibles, les _fabmanagers_.
 
-<center>
+<p align="center">
 <img src="images/post-its_musee_1.jpg" height="200px" alt="Brainstorming">
+</p>
 
-_Un mur de post-its, résultat de notre brainstorming_
+<p align="center" style="font-style: italic;">
+Un mur de post-its, résultat de notre brainstorming
+</p>
 
+<p align="center">
 <img src="images/post-its_musee_2.jpg" height="200px" alt="Brainstorming">
+</p>
 
-_Un autre mur de post-its_
-</center>
+<p align="center" style="font-style: italic;">
+Un autre mur de post-its
+</p>
 
 La journée s’est terminée par l’intervention de trois personnes, toutes travaillant dans des _fablabs_ : deux étaient gérants des fablabs _Albilab_ et du _FabLab_ de l’**_IMT Mines Albi_**, et la troisième était un animateur ayant rejoint très récemment _Albilab_. Nous avons pu les questionner sur leur travail, leurs besoins, et leurs attentes.
 
@@ -118,19 +133,23 @@ La journée s’est terminée par l’intervention de trois personnes, toutes tr
 
 Nous étions par la suite en autonomie pour travailler sur notre projet : il s’agissait de la phase d’**immersion**. Après de nombreuses semaines à se dire que peut-être allait-il falloir le faire un jour, nous avons pris rendez-vous (en même temps que les autres groupes) avec nos interlocuteurs de la visite du musée. Nous étions peu motivés car la problématique donnée au début du cours ne correspondait, selon nos interactions avec le personnel des _fablabs_, à aucune réalité. Nous avons cependant réalisé des entretiens avec eux, et avons également visité les locaux des deux _fablabs_.
 
-<center>
+<p align="center">
 <img src="images/fablab_1.jpg" height="300px" alt="Visite d’Albilab">
+</p>
 
-_Visite d’Albilab_
-</center>
+<p align="center" style="font-style: italic;">
+Visite d’Albilab
+</p>
 
 Coup de chance lors de notre visite d’Albilab, nous avons pu rencontrer un client qui cherchait à savoir si le _fablab_ avait rouvert (il était cependant uniquement ouvert pour notre visite). Nous avons pu lui poser quelques questions sur son utilisation du _fablab_ et ses attentes. Monsieur nous a expliqué qu’il venait entre autre pour réparer son électroménager, et qu’il avait déjà réalisé une pièce en plastique pour réparer sa machine à laver.
 
-<center>
+<p align="center">
 <img src="images/fablab_2.jpg" height="300px" alt="Visite du FabLab de l’IMT Mines Albi">
+</p>
 
-_Visite du FabLab de l’IMT Mines Albi_
-</center>
+<p align="center" style="font-style: italic;">
+Visite du FabLab de l’IMT Mines Albi
+</p>
 
 Nous n’avons pas réellement rencontré de _fabmanagers_ : nous avons rencontré des administrateurs, des gestionnaires, des médiateurs technologiques. Nous avons également discuté de la difficulté de trouver des _fabmanagers_ à rencontrer.
 
@@ -144,27 +163,33 @@ Malgré cela, Philippe nous a encouragé à continuer sur cette même problémat
 
 La phrase de la problématique a été rédigée à partir d’une phrase à trous à remplir suggérée par Philippe, que voici.
 
-<center>
-<img src="images/phrase_a_trous.png" height="300px" alt="Problématique">
+<p align="center">
+<img src="images/phrase_a_trous.png" height="400px" alt="Problématique">
+</p>
 
-_La phrase à trous_
-</center>
+<p align="center" style="font-style: italic;">
+La phrase à trous
+</p>
 
 Nous avons fait la liste des _jobs_, des _pains_, et des _gains_ des personnels en petits _fablabs_, et les avons rassemblés en un archétype qui sera notre client.
 
-<center>
+<p align="center">
 <img src="images/archetype.png" height="400px" alt="Archétype">
+</p>
 
-_L’archétype de notre client_
-</center>
+<p align="center" style="font-style: italic;">
+L’archétype de notre client
+</p>
 
 À partir de cet archétype, nous avons rempli un tableau _before_ / _after_ censé résumer les avantages que notre solution apporterait à notre archétype.
 
-<center>
+<p align="center">
 <img src="images/before_after.png" height="400px" alt="Before / After">
+</p>
 
-_Tableau_ before _/_ after
-</center>
+<p align="center" style="font-style: italic;">
+Tableau before / after
+</p>
 
 Nous avons également commencé à réfléchir à des idées pour résoudre les problèmes de notre archétype.
 
@@ -178,29 +203,41 @@ S'en est ensuivi une nouvelle session de _brainstorming_ (selon Philippe, la _pu
 
 Nous avons également chacun réparti des gommettes sur les idées que nous trouvions les plus pertinentes et plus innovantes.
 
-<center>
+<p align="center">
 <img src="images/post-its_imagination.jpg" height="400px" alt="Brainstorming">
+</p>
 
-_Les post-its de la phase d’imagination_
-</center>
+<p align="center" style="font-style: italic;">
+Les post-its de la phase d’imagination
+</p>
 
 Suite à cette phase, nous avons réalisé une phase de **scénatio catastrophe**. Nous avons écrit des post-its avec des idées de comment faire échouer le projet, puis nous les avons froissés, balancés au milieu, et lus un par un pour trouver des solutions. Ces solutions furent ajoutées sur des post-its, accrochés à côté des autres.
 
 Nous avons, à partir de ces idées, créé trois concepts différents, que nous avons ensuite décrits sur des fiches concepts. Nous avons ensuite scénarisé ces concepts, en imaginant comment ils pourraient se dérouler.
 
-<center>
+<p align="center">
 <img src="images/concept_1.jpg" height="400px" alt="Fiche concept">
+</p>
 
-_Le premier concept. Une sorte de_ visual novel _pour apprendre à gérer un les clients d’un_ fablab _._
+<p align="center" style="font-style: italic;">
+Le premier concept. Une sorte de visual novel pour apprendre à gérer un les clients d’un fablab.
+</p>
 
+<p align="center">
 <img src="images/concept_2.jpg" height="400px" alt="Fiche concept">
+</p>
 
-_Le deuxième concept. Un simulateur de fablab, incluant la gestion d’un budget en plus de devoir accueillir les clients._
+<p align="center" style="font-style: italic;">
+Le deuxième concept. Un simulateur de fablab, incluant la gestion d’un budget en plus de devoir accueillir les clients.
+</p>
 
+<p align="center">
 <img src="images/concept_3.jpg" height="400px" alt="Fiche concept">
+</p>
 
-_Le troisième concept. Une sorte de fusion de métavers et de forum, où les_ fabmanagers _pourraient échanger leurs expériences et partager des ressources utiles._
-</center>
+<p align="center" style="font-style: italic;">
+Le troisième concept. Une sorte de fusion de métavers et de forum, où les fabmanagers pourraient échanger leurs expériences et partager des ressources utiles.
+</p>
 
 Philippe nous a dit qu’il déciderait d’une des trois idées pour la suite du projet, que nous allons devoir prototyper.
 
@@ -210,19 +247,23 @@ Prototypage au bâtiment innovaction des imt mines albi
 
 Nous avons passé la journée de **prototypage** au **_Bâtiment Innov’Action_** de l’**_IMT Mines Albi_**. Après une introduction au concept de **prétotype**, un prototype qui n’a pas besoin d’être fonctionnel et doit être réalisé rapidement (presque une sorte de _mock-up_), Philippe nous a rendu la fiche concept du premier concept que nous avions réalisé la semaine précédente : nous allions donc avoir à réaliser une maquette de _visual novel_.
 
-<center>
+<p align="center">
 <img src="images/tableau_pretotype.jpg" height="400px" alt="Prétotype">
+</p>
 
-_Gribouillage de la maquette de visual novel sur le tableau_
-</center>
+<p align="center" style="font-style: italic;">
+Gribouillage de la maquette de visual novel sur le tableau
+</p>
 
 Après mure réflexion, nous avons décidé de le réaliser sur papier, en dessinant les différentes scènes et en les reliant par des numéros de pages à la manière d’un livre dont vous êtes le héros.
 
-<center>
+<p align="center">
 <img src="images/pretotype.jpg" height="400px" alt="Prétotype">
+</p>
 
-_Le prétotype de_ visual novel
-</center>
+<p align="center" style="font-style: italic;">
+Le prétotype de visual novel
+</p>
 
 ## Lundi 2 décembre 2024
 

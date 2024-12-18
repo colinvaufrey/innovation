@@ -27,10 +27,4 @@ Il peut y avoir divers intensités d’innovation avec des impacts plus ou moins
 - Il est nécessaire de trouver un produit « **désirable** » par le marché.
 - L’enthousiasme et la bonne humeur sont nécessaires dans l’équipe pour que le projet fonctionne.
 
-
-
-<center>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFydWJ1ZzFzb2VyNzZpYWw2bmx6Mzh0YXFhYzBxaDg4b2F5M2tqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZEVkwV6lBiQRsRS5ll/giphy.webp" height="200px" alt="Immersion">
-</center>
-
 [← Retour au menu](README.md)
