@@ -11,7 +11,7 @@ En guise d’introduction, et pour l’aider à retenir nos prénoms, Philippe n
 Nous auront à réaliser un projet concret en groupe, en utilisant la méthode du _design thinking_. Ce projet portera sur les **_fablabs_** : des tiers-lieux où l’on peut fabriquer des objets, souvent organisés en association ou dans un cadre scolaire.
 
 <p align="center">
-<img src="./images/planning.jpg" width="600px" alt="Immersion">
+<img src="./images/planning.jpg" width="500px" alt="Immersion">
 </p>
 
 <p align="center" style="font-style: italic;">
@@ -82,7 +82,7 @@ La baleine minutieuse
 Nous avons également réalisé un exercice de communication qui m’a rappelé une épreuve de Fort Boyard : nous devions, par trois, reconstruire une pyramide de gobelets en plastique, en utilisant uniquement une corde chacun, toutes reliées à un élastique : celui-ci devait être tendu pour soulever les gobelets. En plus de cela, une contrainte supplémentaire s’est ajoutée : nous devions réaliser l’exercice avec une personne aveuglée et une personne muette. J’ai été l’aveuglé, et n’ai pas brié par mes compétences de représentation spatiale… (Si je puis me permettre, les instructions de mon camarade n’ont pas été très claires non plus !)
 
 <p align="center">
-<img src="images/epreuve.gif" width="400px" alt="Épreuve de communication">
+<img src="images/epreuve.gif" width="500px" alt="Épreuve de communication">
 </p>
 
 <p align="center" style="font-style: italic;">
