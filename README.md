@@ -17,6 +17,6 @@
 - [Les outils du _Design Thinking_](./outils.md) ;
 - [Quelques exemples](./exemples.md) ;
 - [Des citations inspirantes](./citations.md) ;
-- [Mon expérience : innover pour les fablabs](./jdb.md).
+- [**Journal de bord** : innover pour les fablabs](./jdb.md).
 
 #### Ce guide à l’innovation est un document réalisé dans le cadre du cours de Philippe Farenc, cours portant sur le _design thinking_ et l’innovation. Il est le fruit de l’expérience de Colin Vaufrey, étudiant en master AMINJ à l’INU Champollion.

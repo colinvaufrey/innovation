@@ -8,7 +8,7 @@ Premier cours de _design thinking_. Philippe <span style="font-variant: small-ca
 
 En guise d’introduction, et pour l’aider à retenir nos prénoms, Philippe nous a fait réaliser sur une feuille de papier un dessin d’un animal totem, ayant la même initiale que notre prénom. De plus, le dessin devait être réalisé uniquement en formes basiques (triangle, cercle, point, ligne). Sur suggestion de Philippe, et par souci de simplicité, j’ai choisi… le **colin**.
 
-Nous auront à réaliser un projet concret en groupe, en utilisant la méthode du _design thinking_. Ce projet portera sur les **_fablabs_** : des tiers-lieux où l’on peut fabriquer des objets, souvent organisés en association ou dans un cadre scolaire.
+Nous aurons à réaliser un projet concret en groupe, en utilisant la méthode du _design thinking_. Ce projet portera sur les **_fablabs_** : des tiers-lieux où l’on peut fabriquer des objets, souvent organisés en association ou dans un cadre scolaire.
 
 <p align="center">
 <img src="./images/planning.jpg" width="500px" alt="Immersion">
@@ -28,11 +28,11 @@ Nous allions également devoir réaliser un journal de bord au format que nous s
 
 ## Lundi 23 septembre 2024
 
-Ce jour nous étudiâmes la méthode du _design thinking_.
+Ce jour-là, nous avons étudié la méthode du _design thinking_.
 
 Toutes les informations sont à retrouver dans les autres documents accessibles depuis le [menu principal](README.md).
 
-En plus de la méthode en 5 partie, illustrée par l’exemple du caddie réinventé par IDEO, nous avons également étudié le _Business Model Canvas_ et le _Value Proposition Design_, deux outils permettant de définir un projet de manière plus précise.
+En plus de la méthode en cinq parties, illustrée par l’exemple du caddie réinventé par IDEO, nous avons également étudié le _Business Model Canvas_ et le _Value Proposition Design_, deux outils permettant de définir un projet de manière plus précise.
 
 Philippe insiste également sur de nombreux conseils pour mener à bien un projet : rester humble, se méfier de soi-même lors de la conception, trouver un produit « **désirable** » par le marché, rester enthousiaste et de bonne humeur, et utiliser le profilage de personnalité pour constituer une équipe équilibrée.
 
@@ -57,7 +57,7 @@ Pour nous entraîner à utiliser la carte d’empathie, il nous a encouragé à 
 
 Ce jeudi nous avons commencé à réfléchir concrètement à notre problématique de _fablabs_ : nous allions devoir déterminer notre cible, nos objectifs, nos acteurs, et ce que nous allions faire.
 
-Nous avons donc déterminé donc **cible** : elle allait être double, avec d’un côté les **_fabmanagers_** et de l’autre les **animateurs**, qui sont amenés à présenter des activités, par exemple, dans des écoles.
+Nous avons donc déterminé notre **cible** : elle allait être double, avec d’un côté les **_fabmanagers_** et de l’autre les **animateurs**, qui sont amenés à présenter des activités, par exemple, dans des écoles.
 
 En nous mettant à leur place, d’une manière similaire à celle de l’**empathy map**, nous avons déterminé quels sont les objectifs habituels de ces deux cibles, et ce qu’ils attendent de nous.
 
@@ -79,7 +79,7 @@ Nous avons été installés dans une salle de réunion, où nous avons été inv
 La baleine minutieuse
 </p>
 
-Nous avons également réalisé un exercice de communication qui m’a rappelé une épreuve de Fort Boyard : nous devions, par trois, reconstruire une pyramide de gobelets en plastique, en utilisant uniquement une corde chacun, toutes reliées à un élastique : celui-ci devait être tendu pour soulever les gobelets. En plus de cela, une contrainte supplémentaire s’est ajoutée : nous devions réaliser l’exercice avec une personne aveuglée et une personne muette. J’ai été l’aveuglé, et n’ai pas brié par mes compétences de représentation spatiale… (Si je puis me permettre, les instructions de mon camarade n’ont pas été très claires non plus !)
+Nous avons également réalisé un exercice de communication qui m’a rappelé une épreuve de Fort Boyard : nous devions, par trois, reconstruire une pyramide de gobelets en plastique, en utilisant uniquement une corde chacun, toutes reliées à un élastique : celui-ci devait être tendu pour soulever les gobelets. En plus de cela, une contrainte supplémentaire s’est ajoutée : nous devions réaliser l’exercice avec une personne aveuglée et une personne muette. J’ai été l’aveuglé, et n’ai pas brillé par mes compétences de représentation spatiale… (Si je puis me permettre, les instructions de mon camarade n’ont pas été très claires non plus !)
 
 <p align="center">
 <img src="images/epreuve.gif" width="500px" alt="Épreuve de communication">
@@ -89,7 +89,7 @@ Nous avons également réalisé un exercice de communication qui m’a rappelé 
 (Quel désastre… Désolé Nada !)
 </p>
 
-Nous avons également réalisé une visite du musée. Je me demandais alors quel rapport la visite pouvait bien avoir avec notre sujet de _fablabs_. J’ai alors compris que le but était de nous montrer des exemples de méthodes de transmission de savoirs, en prenant pour exemple les artisans et leurs apprentis. À l’époque, la transmission était principalement orale et par mimétisme : il ne reste pas ou peu d’écrit décrivants les méthodes de l’industrie qui y était pratiquée.
+Nous avons également réalisé une visite du musée. Je me demandais alors quel rapport la visite pouvait bien avoir avec notre sujet de _fablabs_. J’ai alors compris que le but était de nous montrer des exemples de méthodes de transmission de savoirs, en prenant pour exemple les artisans et leurs apprentis. À l’époque, la transmission était principalement orale et par mimétisme : il ne reste pas ou peu d’écrits décrivant les méthodes de l’industrie qui y était pratiquée.
 
 Pour terminer la visite, nous avons pu admirer une magnifique maquette du **_Saut du Tarn_**, qui nous a été présentée par la guide. En plus de s’illuminer, il est possible de faire couler l’eau de la rivière, ce qui rend le spectacle encore plus impressionnant.
 
@@ -161,11 +161,11 @@ Par ailleurs, Philippe nous avait également conseillé de profiter de cette pha
 
 Pour le retour en cours, nous avons entamé la phase de **recadrage**. Nous avons discuté de nos analyses par rapport à la problématique et de nos visites aux _fablabs_.
 
-Nous avons fait part à Philippe de nos doutes quant à la pertinence de la problématique donnée au début du cours. Les problèmes décrits par nos interlocuteurs ne correspondaient pas à ceux décrits par la problématique : en effet, le personnel des _fablabs_ que nous avons rencontré ne nous ont pas une seule fois parlé de problème de pédagogie, mais plutôt de problèmes de gestion, de communication, et de financement.
+Nous avons fait part à Philippe de nos doutes quant à la pertinence de la problématique donnée au début du cours. Les problèmes décrits par nos interlocuteurs ne correspondaient pas à ceux décrits par la problématique : en effet, le personnel des _fablabs_ que nous avons rencontré ne nous ont pas une seule fois parlé de problème de pédagogie, mais plutôt de problèmes de gestion, de communication, et de financement.
 
-Malgré cela, Philippe nous a encouragé à continuer sur cette même problématique, ce qui était assez frustrant. 
+Malgré cela, Philippe nous a encouragé à continuer sur cette même problématique, ce qui fut assez frustrant.
 
-Nous avons été encouragés à réecrire la problématique de façon à ce qu’elle corresponde à notre idée des choses. Nous avons décidé de nous concentrer sur tout le personnel des _fablabs_ de petite échelle, comme c’est ce que nous avons rencontré.
+Nous avons été encouragés à réécrire la problématique de façon à ce qu’elle corresponde à notre idée des choses. Nous avons décidé de nous concentrer sur tout le personnel des _fablabs_ de petite échelle, comme c’est ce que nous avons rencontré.
 
 La phrase de la problématique a été rédigée à partir d’une phrase à trous à remplir suggérée par Philippe, que voici.
 
@@ -211,7 +211,7 @@ S’en est ensuivi la partie **immersion**, et, avec elle, une nouvelle session 
 
 Nous avons également chacun réparti des gommettes sur les idées que nous trouvions les plus pertinentes et plus innovantes.
 
-J’étais, durant cette partie, très peu inspiré et malgré ça ait été l’un des plus prolifiques en idées, ce qui me fait penser que nous étions tous dans le même cas.
+J’étais, durant cette partie, très peu inspiré et malgré cela ai été l’un des plus prolifiques en idées, ce qui me fait penser que nous étions tous dans le même cas.
 
 <p align="center">
 <img src="images/post-its_imagination.jpg" width="500px" alt="Brainstorming">
@@ -221,7 +221,7 @@ J’étais, durant cette partie, très peu inspiré et malgré ça ait été l�
 Les post-its de la phase d’imagination
 </p>
 
-Suite à cette phase, nous avons réalisé une phase de **scénatio catastrophe**. Nous avons écrit des post-its avec des idées de comment faire échouer le projet, puis nous les avons froissés, balancés au milieu, et lus un par un pour trouver des solutions. Ces solutions furent ajoutées sur des post-its, accrochés à côté des autres.
+Suite à cette phase, nous avons réalisé une phase de **scénario catastrophe**. Nous avons écrit des post-its avec des idées de comment faire échouer le projet, puis nous les avons froissés, balancés au milieu, et lus un par un pour trouver des solutions. Ces solutions furent ajoutées sur des post-its, accrochés à côté des autres.
 
 Nous avons, à partir de ces idées, créé trois concepts différents, que nous avons ensuite décrits sur des fiches concepts. Nous avons ensuite scénarisé ces concepts, en imaginant comment ils pourraient se dérouler.
 
