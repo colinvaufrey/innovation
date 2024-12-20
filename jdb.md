@@ -207,7 +207,7 @@ J’étais également confus durant cette partie là car nous devions présenter
 
 ## Jeudi 21 novembre 2024
 
-S’en est ensuivi la partie **immersion**, et, avec elle, une nouvelle session de _brainstorming_ (selon Philippe, la _purge_) durant laquelle nous avons sorti toutes nos idées sur des post-its, à la fois des problèmes à résoudre et des solutions possibles. Nous avons ensuite trié ces idées en les regroupant par thèmes.
+S’en est ensuivi la partie **imagination**, et, avec elle, une nouvelle session de _brainstorming_ (selon Philippe, la _purge_) durant laquelle nous avons sorti toutes nos idées sur des post-its, à la fois des problèmes à résoudre et des solutions possibles. Nous avons ensuite trié ces idées en les regroupant par thèmes.
 
 Nous avons également chacun réparti des gommettes sur les idées que nous trouvions les plus pertinentes et plus innovantes.
 
